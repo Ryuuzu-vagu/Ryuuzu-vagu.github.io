@@ -1,0 +1,46 @@
+section{
+  padding-top: 10rem;
+}
+.container span{
+  color: hsla(94.7,6.5%,81.7%,0.85);
+  font-weight: italic;
+}
+
+.jumbotron .hi{
+  font-size: 30px;
+  color: hsla(194.9,52.8%,15.5%,0.85);
+  font-weight: bold;
+}
+.jumbotron h1{
+  font-size: 30px;
+  font-weight: bold;
+  color: hsla(175.7,61.4%,31.5%,0.85);
+}
+.jumbotron{
+  background-color: hsla(185.1,74.9%,55.6%,0.85);
+  padding-top: 10rem;
+}
+.jumbotron img{
+  width: 270px;
+  height: 270px;
+  border-radius: 50%;
+}
+.skills{
+  background-color: hsla(185.1,74.9%,55.6%,0.85);
+}
+.skills img{
+  padding-top: 2rem;
+  width: 18rem;
+}
+.card img{
+  width: 18rem;
+}
+.projects img{
+  padding-top: 5rem;
+}
+#contact{
+  background-color: hsla(185.1,74.9%,55.6%,0.85);
+}
+.card-body{
+  padding-top: 3rem;
+}
